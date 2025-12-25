@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Qiaofei Wu"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor\nBeijing Normal University"
+  bio              : ｜ 
+                     "Assistant Professor“
+                     ”Beijing Normal University"
   location         : "Beijing, China"
   employer         : 
   pubmed           :
