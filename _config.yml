@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Subhayan Mukerjee"
+title                    : "Qiaofei Wu"
 title_separator          : "-"
-name                     : &name "Subhayan Mukerjee"
+name                     : &name "Qiaofei Wu"
 description              : &description "Ph.D. Candidate"
-url                      : https://wrahool.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Jovi-Wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wrahool/wrahool.github.io"
+repository               : "Jovi-Wu/Jovi-Wu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &wrahool
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Subhayan Mukerjee"
+  name             : "Qiaofei Wu"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, National University of Singapore"
-  location         : "Singapore"
+  bio              : "Assistant Professor, Beijing Normal University"
+  location         : "Beijing, China"
   employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en"
-  email            : "mail@subhayan.com"
-  researchgate     : "https://www.researchgate.net/profile/Subhayan_Mukerjee2"
+  googlescholar    : "https://scholar.google.com/citations?user=uQQGBOQAAAAJ&hl=en"
+  email            : "qiaofeiwu25@bnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Qiaofei-Wu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wrahool"
+  github           : "Jovi-Wu"
   google_plus      :
-  keybase          : "wrahool"
+  keybase          : 
   # instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   # lastfm           :
-  linkedin         : "subhayanmukerjee"
-  orcid            : "https://orcid.org/0000-0002-1885-5440"
+  linkedin         : "qiaofei-wu-708a04a7/?originalSubdomain=cn"
+  orcid            : "https://orcid.org/0000-0001-5480-3261"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "1123924/wrahool"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "wrahool"
+  twitter          : "Jovi_Wu02"
   vine             :
   weibo            :
   xing             :
