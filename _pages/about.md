@@ -13,6 +13,7 @@ redirect_from:
 
 ## Welcome to my personal website!
 
+---
 
 ### About Me
 
@@ -29,7 +30,7 @@ In a previous life, I wrote code for analytics start-ups in India. Before my Ph.
 
 In my spare time, I read, write, cook, listen to podcasts, and watch sports. I enjoy following [Formula 1](http://formula1.com/), and support [Arsenal Football Club](https://www.arsenal.com/) with an aching heart.
 
-------------
+---
 
 > <b>News</b>
 > * Jan 2026: Our paper on audiences' reactions to deepfake resurrections was published in Computers in Human Behavior. [Read more...](https://www.sciencedirect.com/science/article/abs/pii/S0747563225002699?via%3Dihub)
@@ -41,7 +42,7 @@ In my spare time, I read, write, cook, listen to podcasts, and watch sports. I e
 -->
 
 
-------------
+---
 *The views and opinions expressed on this webpage are solely my own and do not necessarily reflect the views or positions of any employer, past or present. Content is provided for academic purposes only.*
 
 *The header image features a mosaic of eight distinct photos captured by NASA's Landsat satellite. See [https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/)*
