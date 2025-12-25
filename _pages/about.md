@@ -15,12 +15,6 @@ redirect_from:
 
 I am an assistant professor at the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at the [Beijing Normal University](https://english.bnu.edu.cn/).
 
-> <b>News</b>
-> * Nov 2025: I joined the School of Journalism and Communication at the Beijing Normal University. [Read more...](https://sjc.bnu.edu.cn/sztd/jsdw/js2/5b6421a442ee4ef7a10b8ce444b3ffe1.html)
-
-<!---
-> * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
--->
 
 ### About Me
 
@@ -33,6 +27,16 @@ Research aside, I teach quantitative methods for undergraduate and graduate stud
 In a previous life, I wrote code for analytics start-ups in India. Before my Ph.D., I completed a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/), India, and a Master of Arts degree in Communication from the [University of Pennsylvania](https://www.upenn.edu/).
 
 In my spare time, I read, write, cook, listen to podcasts, and watch sports. I enjoy following [Formula 1](http://formula1.com/), and support [Arsenal Football Club](https://www.arsenal.com/) with an aching heart.
+
+> <b>News</b>
+
+> * Dec 2025: I delivered a invited lecture on Cross-National Comparative Communication Research in the School of Arts & Communication at the Beijing Normal University.
+
+> * Nov 2025: I joined the School of Journalism and Communication at the Beijing Normal University. [Read more...](https://sjc.bnu.edu.cn/sztd/jsdw/js2/5b6421a442ee4ef7a10b8ce444b3ffe1.html)
+
+<!---
+> * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
+-->
 
 --
 
