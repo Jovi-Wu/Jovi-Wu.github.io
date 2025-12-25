@@ -11,9 +11,9 @@ redirect_from:
 
 ![Subhayan Landsat](/assets/images/subhayan-landsat.png)
 
-## Welcome to my personal webspace
+## Welcome to my personal website
 
-I am an assistant professor at the [Department of Communications and New Media](https://www.fas.nus.edu.sg/cnm/) and a principal investigator at [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) of the [National University of Singapore](http://nus.edu.sg/). I am also affiliated with the [NUS Centre for Computational Social Science and Humanities](https://cssh.nus.edu.sg/).
+I am an assistant professor at the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at the [National University of Singapore](https://english.bnu.edu.cn/).
 
 > <b>Updates</b>
 > * Nov 2024: I am guest co-editing a special issue for Computational Communication Research on Generative AI. [Read more...](https://www.subhayan.com/posts/2024/11/ccr-genai-si/)
