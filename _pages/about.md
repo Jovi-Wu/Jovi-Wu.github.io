@@ -13,28 +13,13 @@ redirect_from:
 
 ## Welcome to my personal website
 
-I am an assistant professor at the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at the [National University of Singapore](https://english.bnu.edu.cn/).
+I am an assistant professor at the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at the [Beijing Normal University](https://english.bnu.edu.cn/).
 
-> <b>Updates</b>
-> * Nov 2024: I am guest co-editing a special issue for Computational Communication Research on Generative AI. [Read more...](https://www.subhayan.com/posts/2024/11/ccr-genai-si/)
-> * Mar 2024: I delivered an invited lecture at Academia Sinica, Taiwan [Read more...](https://www.subhayan.com/posts/2024/3/computing-society-taiwan/)
-> * Feb 2024: New publication in Information, Communication & Society. [Read more...](https://www.subhayan.com/posts/2024/2/ics-india-news/)
-> * Feb 2024: SICSS (Summer Institute Computational Social Science)-Singapore returns. Grad students, postdocs, early career faculty are welcome to [apply](https://www.subhayan.com/posts/2024/2/sicss-singapore-2024/)!
-> * Feb 2024: Talking about the power of platforms on the Computational Communication Science podcast. [Read more...](https://www.subhayan.com/posts/2024/2/ccs-podcast/)
-> * Jan 2024: I am co-organising a one day ICA preconference on Journalism and Computation. [Read more...](https://www.subhayan.com/posts/2024/1/ica-preconf/)
+> <b>News</b>
+> * Nov 2025: I joined the School of Journalism and Communication at the Beijing Normal University. [Read more...](https://sjc.bnu.edu.cn/sztd/jsdw/js2/5b6421a442ee4ef7a10b8ce444b3ffe1.html)
 
 <!---
 > * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
-> * Oct 2023: I delivered a seminar at the NUS Centre for Trusted Internet and Community. [Read more...](https://www.subhayan.com/posts/2023/10/ctic-seminar/)
-> * Sep 2023: Researching computational methods X Journalism? Apply for our ICA preconference and visit us in Singapore on the way to ICA. [Read more...](https://fass.nus.edu.sg/cnm/ica-2024/)
-> * Sep 2023: I delivered an invited webinar on AI and Society at IIM-Bangalore. [Read more...](https://www.subhayan.com/posts/2023/9/iimb-webinar/)
-> * Aug 2023: I delivered an invited webinar on AI and Data Analytics for Positive Change. [Read more...](https://www.subhayan.com/posts/2023/8/snt-webinar/)
-> * Apr 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/4/joc-metrics/)
-> * Mar 2023: Talking about ChatGPT on the CNM Podcast. [Read more...](https://www.subhayan.com/posts/2023/3/chatgpt-podcast)
-> * Feb 2023: Interview by Freethink about nostr and Web 3.0. [Read more...](https://www.subhayan.com/posts/2023/2/freethink-interview/)
-> * Jan 2023: New publication in Journal of Communication. [Read more...](https://www.subhayan.com/posts/2023/1/joc-shadowban/)
-> * Sep 2022: New publication in Cyberpsychology, Behaviour, and Social Networking. [Read more...](https://www.subhayan.com/posts/2022/9/cyberpsych-pub/)
-> * Aug 2022: I delivered an invited lecture on Data Storytelling for Business. [Read more...](https://www.subhayan.com/posts/2022/8/masterclass-nus/)
 -->
 
 ### About Me
