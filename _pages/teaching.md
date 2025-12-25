@@ -9,11 +9,11 @@ author_profile: true
 
 ## Beijing Normal University
 
-# Undergraduate courses
+### Undergraduate courses
 
 * Cultural and Creative Industries <br>
 
-# Graduate courses
+### Graduate courses
 
 * Data Analysis in Intelligent Communication <br>
 
@@ -21,7 +21,7 @@ author_profile: true
 
 ## National University of Singapore
 
-# Undergraduate modules
+### Undergraduate modules
 
 * NM 2103: Quantitative Research Methods <br>
 Teaching Assistant for Prof. Hichang CHO
