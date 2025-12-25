@@ -13,10 +13,11 @@ redirect_from:
 
 ## Welcome to my personal website
 
-I am an assistant professor at the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at the [Beijing Normal University](https://english.bnu.edu.cn/).
-
 
 ### About Me
+
+I am an assistant professor at the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at the [Beijing Normal University](https://english.bnu.edu.cn/).
+
 
 A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in reputed social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics*, *Information, Communication and Society* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en). My faculty page on the NUS website can be found [here](https://discovery.nus.edu.sg/19113-subhayan-mukerjee).
 
@@ -27,6 +28,8 @@ Research aside, I teach quantitative methods for undergraduate and graduate stud
 In a previous life, I wrote code for analytics start-ups in India. Before my Ph.D., I completed a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/), India, and a Master of Arts degree in Communication from the [University of Pennsylvania](https://www.upenn.edu/).
 
 In my spare time, I read, write, cook, listen to podcasts, and watch sports. I enjoy following [Formula 1](http://formula1.com/), and support [Arsenal Football Club](https://www.arsenal.com/) with an aching heart.
+
+---
 
 > <b>News</b>
 > * Jan 2026: Our paper on audiences' reactions to deepfake resurrections was published in Computers in Human Behavior.[Read more...](https://www.sciencedirect.com/science/article/abs/pii/S0747563225002699?via%3Dihub)
