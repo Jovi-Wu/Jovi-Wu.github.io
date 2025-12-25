@@ -32,9 +32,9 @@ In my spare time, I read, write, cook, listen to podcasts, and watch sports. I e
 ---
 
 > <b>News</b>
-> * Jan 2026: Our paper on audiences' reactions to deepfake resurrections was published in Computers in Human Behavior.[Read more...](https://www.sciencedirect.com/science/article/abs/pii/S0747563225002699?via%3Dihub)
+> * Jan 2026: Our paper on audiences' reactions to deepfake resurrections was published in Computers in Human Behavior. [Read more...](https://www.sciencedirect.com/science/article/abs/pii/S0747563225002699?via%3Dihub)
 > * Dec 2025: I delivered a invited lecture on Cross-National Comparative Communication Research in the School of Arts & Communication at the Beijing Normal University.
-> * Nov 2025: I joined the School of Journalism and Communication at the Beijing Normal University. [Read more...](https://sjc.bnu.edu.cn/sztd/jsdw/js2/5b6421a442ee4ef7a10b8ce444b3ffe1.html)
+> * Nov 2025: I joined the School of Journalism and Communication at the Beijing Normal University as an assistant professor. [Read more...](https://sjc.bnu.edu.cn/sztd/jsdw/js2/5b6421a442ee4ef7a10b8ce444b3ffe1.html)
 
 <!---
 > * Nov 2023: I delivered an invited webinar at A*STAR (Agency for Science and Technology Research). [Read more...](https://www.subhayan.com/posts/2023/11/astar-seminar/)
