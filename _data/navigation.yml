@@ -9,9 +9,6 @@ main:
   - title: "CV"
     url: /cv/
         
-  - title: "Blog"
-    url: /blog/
-    
   - title: "Miscellaneous"
     url: /miscellaneous/
 
