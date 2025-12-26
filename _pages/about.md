@@ -41,4 +41,4 @@ In my spare time, I enjoy listening to music across different genres, photograph
 
 *The views and opinions expressed on this webpage are solely my own and do not necessarily reflect the views or positions of any employer, past or present. Content is provided for academic purposes only.*
 
-*The header image features a sunset in Jimbaran, Indonesia, photographed by me.
+*The header image features a sunset at Jimbaran Beach, Indonesia, photographed by me.
