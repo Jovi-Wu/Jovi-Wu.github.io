@@ -16,18 +16,13 @@ redirect_from:
 
 ### About Me
 
-I am an assistant professor at the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at the [Beijing Normal University](https://english.bnu.edu.cn/).
+I am an assistant professor in the [School of Journalism and Communication](https://sjc.bnu.edu.cn/index.html) at [Beijing Normal University](https://english.bnu.edu.cn/). I earned my PhD from the [Department of Communications and New Media](https://fass.nus.edu.sg/cnm/) at the[National University of Singapore](https://nus.edu.sg/). My research lies at the intersection of digital technologies, health communication, and behavioral decision-making. Drawing on mixed methods and interdisciplinary theories, I examine the social implications of information, emerging technologies, and communication behaviors, particularly how technologies, such as social media and AI, can be leveraged to promote social engagement and well-being.
 
+My research has appeared in reputed social science journals such as Computers in Human Behavior, Health Communication, and Journal of Health Communication. My work has garnered several international awards, including NCA’s Top Paper Award from the International Chinese Communication Association (2023) and NCA’s Top Paper Award from the Health Communication Division (2024).
 
-A computational social scientist by training, I study the dynamics of audience behavior on online platforms, and the effects they have on audiences at both, a macro, as well as a micro-level. I hold a Ph.D. from the [Annenberg School for Communication](https://www.asc.upenn.edu) of the [University of Pennsylvania](https://www.upenn.edu/) where I was advised by [Dr. Sandra Gonzalez-Bailon](https://www.asc.upenn.edu/people/faculty/sandra-gonzalez-bailon-phd). My research has appeared in reputed social science journals such as *Journal of Communication*,  *Political Communication*, *The International Journal of Press/Politics*, *Information, Communication and Society* as well as interdisciplinary venues such as *Scientific Reports*, and *Social Networks*. For a full list of my publications, visit my [Google Scholar page](https://scholar.google.com/citations?user=Y7_E1EIAAAAJ&hl=en). My faculty page on the NUS website can be found [here](https://discovery.nus.edu.sg/19113-subhayan-mukerjee).
+Before my PhD, I received an MA in Communication from [Tsinghua University](https://www.tsinghua.edu.cn/en/), and a BA in Advertising from the [Central University of Finance and Economics](https://en.cufe.edu.cn/).
 
-My interest in the field of computational social science stems largely from my love for Isaac Asimov's *Foundation* trilogy from a very young age. As a result, I generally tend to ponder ways in which large scale social phenomena can be usefully and formally modeled.
-
-Research aside, I teach quantitative methods for undergraduate and graduate students, as well as develop and teach data communication courses for the [MSocSci (Communication) program](https://scale.nus.edu.sg/programmes/graduate/msocsci-(communication)) at NUS. You can check out the [Teaching](./teaching) section of this website for further details.
-
-In a previous life, I wrote code for analytics start-ups in India. Before my Ph.D., I completed a Bachelor of Engineering degree in Computer Science and a Master of Science degree in Mathematics from [BITS Pilani](https://www.bits-pilani.ac.in/), India, and a Master of Arts degree in Communication from the [University of Pennsylvania](https://www.upenn.edu/).
-
-In my spare time, I read, write, cook, listen to podcasts, and watch sports. I enjoy following [Formula 1](http://formula1.com/), and support [Arsenal Football Club](https://www.arsenal.com/) with an aching heart.
+In my spare time, I enjoy listening to music across different genres, photography, and hiking.
 
 ---
 
