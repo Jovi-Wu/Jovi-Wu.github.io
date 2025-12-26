@@ -9,7 +9,7 @@ redirect_from:
   - /home.html/
 ---
 
-![Subhayan Landsat](/assets/images/subhayan-landsat.png)
+![Jovi Jimbaran](/assets/images/Jovi_Jimbaran.jpg)
 
 ## Welcome to my personal website!
 
