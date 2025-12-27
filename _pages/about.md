@@ -28,7 +28,7 @@ In my spare time, I enjoy listening to music across different genres, photograph
 
 > <b>News</b>
 > * Jan 2026: Our paper on audiences' reactions to deepfake resurrections was published in Computers in Human Behavior. [Read more...](https://www.sciencedirect.com/science/article/abs/pii/S0747563225002699?via%3Dihub)
-> * Dec 2025: I delivered a invited lecture on Cross-National Comparative Communication Research in the School of Arts & Communication at the Beijing Normal University.
+> * Dec 2025: I delivered a invited lecture on Cross-National Comparative Communication Research in the School of Arts & Communication at Beijing Normal University.
 > * Nov 2025: I joined the School of Journalism and Communication at Beijing Normal University as an assistant professor. [Read more...](https://sjc.bnu.edu.cn/sztd/jsdw/js2/5b6421a442ee4ef7a10b8ce444b3ffe1.html)
 
 <!---
