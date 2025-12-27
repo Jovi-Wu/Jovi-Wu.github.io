@@ -1,5 +1,5 @@
 ---
-layout: archive
+#layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
@@ -19,7 +19,6 @@ author_profile: true
 
 * Intelligent Communication: Applications and Theory <br>
 
----
 
 ## National University of Singapore
 
