@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I am a social science scholar who employs mixed methods and interdisciplinary theories from communication, psychology, and information science to examine the social implications of information, digital technologies, and everyday communication behaviors. My work revolves around three distinct, yet often interconnected research pillars.
+My work revolves around three distinct, yet often interconnected research pillars.
 
 ## Digital Technologies and Well-being
 
