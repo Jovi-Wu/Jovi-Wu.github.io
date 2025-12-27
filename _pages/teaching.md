@@ -19,6 +19,8 @@ author_profile: true
 
 * Intelligent Communication: Applications and Theory <br>
 
+---
+
 ## National University of Singapore
 
 *Undergraduate modules*
