@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+
 My work revolves around three distinct, yet often interconnected research pillars.
 
 ## Digital Technologies and Well-being
