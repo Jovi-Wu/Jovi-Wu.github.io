@@ -26,7 +26,7 @@ roles of self-efficacy, information seeking frustration, and social media use. *
 doi:10.1080/10410236.2023.2297120
 
 
-## Risk, Uncertainty, and Decision-Making
+## Risk, Uncertainty, and Decision-making
 
 ### Example publications:
 
