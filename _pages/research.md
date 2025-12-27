@@ -30,7 +30,7 @@ doi:10.1080/10410236.2023.2297120
 
 ### Example publications:
 
-1. Soto-Sanfiel, M. T., & **Wu, Q.** (2025).How audiences make sense of deepfake resurrections: A multilevel analysis of realism, ethics, and cultural meaning. *Computers in Human Behavior*, *174*:108822. doi:10.1016/j.chb.2025.108822
+1. Soto-Sanfiel, M. T., & **Wu, Q.** (2025). How audiences make sense of deepfake resurrections: A multilevel analysis of realism, ethics, and cultural meaning. *Computers in Human Behavior*, *174*:108822. doi:10.1016/j.chb.2025.108822
 
 
 
