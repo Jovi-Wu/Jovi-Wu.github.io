@@ -18,6 +18,13 @@ roles of self-efficacy, information seeking frustration, and social media use. *
 *28*(6), 349-359. doi:10.1080/10810730.2023.2208537 [Link](https://www.tandfonline.com/doi/full/10.1080/10810730.2023.2208537)
 
 
+## Risk, Uncertainty, and Decision-making
+
+### Example publications:
+
+1. Soto-Sanfiel, M. T., & **Wu, Q.** (2025). How audiences make sense of deepfake resurrections: A multilevel analysis of realism, ethics, and cultural meaning. *Computers in Human Behavior*, *174*:108822. doi:10.1016/j.chb.2025.108822 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0747563225002699?via%3Dihub)
+
+
 ## Cultural Dynamics of Communication Effects
 
 ### Example publications:
@@ -27,17 +34,7 @@ doi:10.1080/10410236.2023.2297120 [Link](https://www.tandfonline.com/doi/full/10
 
 
 
-## Risk, Uncertainty, and Decision-making
-
-### Example publications:
-
-1. Soto-Sanfiel, M. T., & **Wu, Q.** (2025). How audiences make sense of deepfake resurrections: A multilevel analysis of realism, ethics, and cultural meaning. *Computers in Human Behavior*, *174*:108822. doi:10.1016/j.chb.2025.108822 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0747563225002699?via%3Dihub)
-
-
-
-
 --
-
 
 
 *A full list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=uQQGBOQAAAAJ&hl=en).*
