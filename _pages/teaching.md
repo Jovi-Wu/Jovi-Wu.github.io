@@ -9,7 +9,7 @@ author_profile: true
 
 ## Beijing Normal University
 
-*Undergraduate courses (forthcoming)*
+*Undergraduate courses (Ongoing)*
 
 * Cultural and Creative Industries <br>
 
