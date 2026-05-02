@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Please click [here](/assets/files/CV_JOVI.pdf) to download my latest CV.
+Please click [here](/assets/files/CV_JoviWu.pdf) to download my latest CV.
 
