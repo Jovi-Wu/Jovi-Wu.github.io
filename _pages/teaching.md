@@ -9,11 +9,11 @@ author_profile: true
 
 ## Beijing Normal University
 
-*Undergraduate courses (ongoing)*
+*Undergraduate courses*
+
+* Risk Communication (forthcoming)<br>
 
 * Cultural and Creative Industries <br>
-
-* Risk Communication <br>
 
 *Graduate courses (forthcoming)*
 
