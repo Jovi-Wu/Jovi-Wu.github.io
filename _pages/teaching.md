@@ -13,6 +13,8 @@ author_profile: true
 
 * Cultural and Creative Industries <br>
 
+* Risk Communication <br>
+
 *Graduate courses (forthcoming)*
 
 * Data Analysis in Intelligent Communication <br>
