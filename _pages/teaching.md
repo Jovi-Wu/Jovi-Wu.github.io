@@ -11,7 +11,7 @@ author_profile: true
 
 *Undergraduate courses*
 
-* Risk Communication (forthcoming)<br>
+* Risk Communication *(forthcoming)*<br>
 
 * Cultural and Creative Industries <br>
 
